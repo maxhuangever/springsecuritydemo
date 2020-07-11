@@ -4,7 +4,7 @@ import org.junit.Test;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.security.crypto.password.PasswordEncoder;
 
-public class LearningTest {
+public class PasswordEncoderTest {
   
   @Test
   public void encrypt_password () {
